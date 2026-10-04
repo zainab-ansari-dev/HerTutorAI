@@ -1,0 +1,772 @@
+[
+  {
+    "title": "Analog and Digital Signals (Types of data transmission) in Computer networks",
+    "url": "https://youtu.be/_9HunA3rIjA?si=buYnUmQY3lvKeRlE",
+    "resource_url":"https://www.geeksforgeeks.org/physics/difference-between-analog-and-digital-signal/",
+    "topics": ["Analog signals", "Digital signals", "Advantages & disadvantages of Analog signals", "Advantages & disadvantages of digital signals"],
+    "my_note": "good explanation of the analog and digital signals"
+  },
+  {
+    "title": "Parallel & Serial Transmission in Computer Networks",
+    "url": "https://youtu.be/FzkxhhTOsyo?si=VtzUvKEKP_zduEa3",
+    "resource_url":"https://newhavendisplay.com/blog/serial-vs-parallel-communication/",
+    "topics": ["Parallel transmission", "Serial transmission"],
+    "my_note": "has explained parallel and serial transmission well along with its types"
+  },
+  {
+    "title": "simplex, half-duplex, full-duplex transmission in computer networks",
+    "url": "https://youtu.be/RzAXEQ4XsSI?si=RoFEiiyPoiiCCfYx",
+    "resource_url":"https://teachcomputerscience.com/simplex-half-duplex-full-duplex/",
+    "topics": ["Simplex transmission", "Half-duplex transmission", "Full-duplex transmission"],
+    "my_note": "proper explanation with diagrams"
+  },
+  {
+    "title": "multiplexing and de-multiplexing in computer networks",
+    "url": "https://youtu.be/4Ak-hdPE_oE?si=m15RiMdQGyMe8QCl",
+    "resource_url":"https://www.scaler.com/topics/multiplexing-and-demultiplexing-in-computer-networks/",
+    "topics": ["Multiplexing", "De-multiplexing"],
+    "my_note": "great explanation "
+  },
+  {
+    "title": "Error detection ",
+    "url": "https://youtu.be/EMrY-8m8D1E?si=46llz50QMDLtmXYv",
+    "resource_url":"https://www.geeksforgeeks.org/computer-networks/error-detection-in-computer-networks/",
+    "topics": ["Multiplexing", "De-multiplexing"],
+    "my_note": "this also has a playlist of Error detection which is very large , no bullshit and straight talk!"
+  },
+  {
+    "title": "Network Topologies",
+    "url": "https://youtu.be/uSKdjjw5zow?si=tJ_9VSK8VqPnJfKv",
+    "resource_url":"https://www.geeksforgeeks.org/computer-networks/network-topology/",
+    "topics": ["Network topology", "Bus topology", "Ring topology","Star topology", "Mesh topology", "Tree topology"],
+    "my_note": "has covered the basics and also explaining each toplogies advantages"
+  },
+  {
+    "title": "Modulation in Computer Networks (AM, FM, PM Explained)",
+    "url": "https://youtu.be/25nHI2uxV8w?si=sqnHcEZ4Oq_yb1XA",
+    "resource_url":"https://www.geeksforgeeks.org/computer-networks/what-is-modulation/",
+    "topics": ["modulation", "computer networks", "amplitude modulation", "frequency modulation", "phase modulation", "analog signal"],
+    "my_note": "Essential breakdown of how digital data converts into analog waves for transmission. Watch carefully to grasp carrier signals before diving into physical layer topics."
+  },
+  {
+    "title": "Wired vs Wireless Transmission Media in Computer Networks",
+    "url": "https://youtu.be/wwsD3gT48Ag?si=p9oODwU5ITyWep8D",
+    "resource_url":"https://ncert.nic.in/textbook/pdf/lecs111.pdf",
+    "topics": ["wired transmission", "wireless transmission", "guided media", "unguided media", "twisted pair", "coaxial", "radio waves"],
+    "my_note": "Great comparative view outlining propagation speeds, noise interference, and physical bandwidth limits across both media types."
+  },
+  {
+    "title": "Network Devices Explained: Hub, Switch, Router, Bridge, Repeater, Gateway",
+    "url": "https://youtu.be/--vhVitkx-Q?si=HsfCSFvGuO81LiDN",
+    "resource_url":"https://ncert.nic.in/textbook/pdf/lecs111.pdf",
+    "topics": ["network devices", "hub", "switch", "router", "bridge", "repeater", "gateway", "hardware"],
+    "my_note": "Comprehensively links every network device to its specific OSI model layer. High yield for short-answer questions in exams."
+  },
+  {
+    "title": "Fiber Optic Cable Construction and Working Principle",
+    "url": "https://youtu.be/G-UyeFDsXlI?si=3A62Q4PMdHb2P7Sp",
+    "resource_url":"https://www.geeksforgeeks.org/computer-networks/fiber-optics-and-types/",
+    "topics": ["fiber optic cable", "total internal reflection", "single mode", "multimode", "transmission media"],
+    "my_note": "Visually illustrates total internal reflection and structural differences between single-mode and multi-mode fiber options."
+  },
+  {
+    "title": "Microwave Transmission in Computer Networks",
+    "url": "https://youtu.be/z_YOVfnwEoA?si=OrpciNqXLeBiPDEU",
+    "resource_url":"https://www.geeksforgeeks.org/electronics-engineering/microwave-transmission/",
+    "topics": ["microwave transmission", "wireless media", "line of sight", "terrestrial microwave", "satellite microwave"],
+    "my_note": "Focuses on line-of-sight propagation constraints, parabolic antennas, and satellite relay mechanisms."
+  },
+  {
+    "title": "Radio Wave Transmission Basics & Applications",
+    "url": "https://youtu.be/Kyqh77MVs-s?si=fWlWI4cu5Y8XaHzc",
+    "resource_url":"https://www.tutorialspoint.com/article/what-is-radiowave-transmission",
+    "topics": ["radiowave transmission", "wireless media", "omnidirectional", "rf propagation", "data networks"],
+    "my_note": "Explains omnidirectional wave behavior and frequency spectrum allocation—super helpful for wireless network fundamentals."
+  },
+  {
+    "title": "Switching Techniques: Circuit, Packet, and Message Switching",
+    "url": "https://youtu.be/-HlJ4psu5aU?si=kWR9ZM03BuaC2p5B",
+    "resource_url":"https://www.pynetlabs.com/switching-in-networking/",
+    "topics": ["switching", "circuit switching", "packet switching", "message switching", "datagram", "virtual circuit"],
+    "my_note": "Crucial distinction logic between packet delay vs circuit setup time. Perfect reference for core networking theory."
+  },
+  {
+    "title": "OSI Reference Model Architecture (7 Layers Explained)",
+    "url": "https://youtu.be/qBXmbJZQ5rY?si=6batQsZ-9uxPFVHy",
+    "resource_url":"https://neosnetworks.com/resources/blog/what-is-osi-model/",
+    "topics": ["osi reference model", "osi layers", "physical layer", "data link layer", "network layer", "transport layer"],
+    "my_note": "Definitive step-by-step breakdown of data encapsulation across all 7 layers. The ultimate exam refresher."
+  },
+  {
+    "title": "TCP/IP Protocol Suite Architecture vs OSI Model",
+    "url": "https://youtu.be/wvPe4Zb0tUA?si=d0bs9DnbRsyYgzEd",
+    "resource_url":"https://www.geeksforgeeks.org/computer-networks/tcp-ip-model/",
+    "topics": ["tcp ip", "tcp ip model", "protocol suite", "network architecture", "internet layer"],
+    "my_note": "Clear mapping of real-world internet architecture compared to theoretical OSI layer boundaries."
+  },
+  {
+    "title": "Framing in Data Link Layer (Part 1 - Basics & Character Count)",
+    "url": "https://youtu.be/NhpzBldHOYo?si=dDfnbuDzGLkyXacI",
+    "resource_url":"https://www.geeksforgeeks.org/computer-networks/framing-in-data-link-layer/",
+    "topics": ["framing", "data link layer", "character count", "framing methods", "byte stuffing"],
+    "my_note": "Starts framing concepts with clear examples of frame synchronization and character-count error vulnerability."
+  },
+  {
+    "title": "Framing in Data Link Layer (Part 2 - Byte Stuffing & Bit Stuffing)",
+    "url": "https://youtu.be/ckcRxFxeOs4?si=8QslqsNVmQ9nC1CO",
+    "resource_url":"https://www.geeksforgeeks.org/computer-networks/framing-in-data-link-layer/",
+    "topics": ["framing", "bit stuffing", "byte stuffing", "flag byte", "delimiters", "data link layer"],
+    "my_note": "Must-watch for solving bit-stuffing algorithm problems step-by-step. Extremely practical exam application."
+  },
+  {
+    "title": "Framing in Data Link Layer (Part 3 - Physical Layer Coding Violations)",
+    "url": "https://youtu.be/8sV_fOzJoqI?si=Dv0UiPvuJRGgbBkj",
+    "resource_url":"https://www.geeksforgeeks.org/computer-networks/framing-in-data-link-layer/",
+    "topics": ["framing", "physical layer coding violations", "manchester encoding", "frame boundaries"],
+    "my_note": "Rounds out framing methods by showing how physical encoding tricks mark start/end boundaries without adding extra payload bytes."
+  },
+  {
+    "title": "HDLC Protocol: High-Level Data Link Control Frames",
+    "url": "https://youtu.be/N2tgsPUPEBE?si=OXM_7YSRJFjtkZTs",
+    "resource_url":"https://www.tutorialspoint.com/article/what-is-high-level-data-link-control-hdlc",
+    "topics": ["hdlc", "high level data link control", "i frame", "s frame", "u frame", "bit oriented protocol"],
+    "my_note": "Breaks down Information, Supervisory, and Unnumbered frame structures into easily digestible field diagrams."
+  },
+  {
+    "title": "FDMA (Frequency Division Multiple Access) Deep Dive",
+    "url": "https://youtu.be/6xA1l_c8RLk?si=6ZQZVrW1LtsGN1s-",
+    "resource_url":"https://www.geeksforgeeks.org/computer-networks/frequency-division-multiple-access-fdma-techniques/",
+    "topics": ["fdma", "frequency division multiple access", "multiple access protocols", "guard bands", "channel allocation"],
+    "my_note": "Clean visual explanation of bandwidth division into distinct sub-channels separated by guard bands."
+  },
+  {
+    "title": "TDMA (Time Division Multiple Access) Concepts",
+    "url": "https://youtu.be/JRkJ8dwwdEc?si=rT0hw5UMNiFK212u",
+    "resource_url":"https://www.tutorialspoint.com/cdma/tdma_technology.htm",
+    "topics": ["tdma", "time division multiple access", "time slots", "multiple access", "channel sharing"],
+    "my_note": "Clearly shows how multiple users share the entire frequency band by taking turns in dedicated time slots."
+  },
+  {
+    "title": "CDMA (Code Division Multiple Access) & Orthogonal Codes",
+    "url": "https://youtu.be/n9-VQvIFvFc?si=Iw0iiKq04snVeKfu",
+    "resource_url":"https://brainly.in/question/55639586",
+    "topics": ["cdma", "code division multiple access", "walsh codes", "spread spectrum", "chip sequence"],
+    "my_note": "Simplifies mathematical chip sequences and orthogonal coding concepts that usually confuse students in textbooks."
+  },
+  {
+    "title": "ATM and Frame Relay Comparison & Architecture",
+    "url": "https://youtu.be/BOqwspjt_mQ?si=5eBL4J4550UauCDY",
+    "resource_url":"https://www.geeksforgeeks.org/computer-networks/asynchronous-transfer-mode-atm-in-computer-network/",
+    "topics": ["atm", "frame relay", "asynchronous transfer mode", "fixed cells", "packet switching", "wan protocols"],
+    "my_note": "Great comparison showing why 53-byte fixed ATM cells offer deterministic QoS compared to variable frame relay limits."
+  },
+  {
+    "title": "Ethernet Frame Format & IEEE 802.3 Standard",
+    "url": "https://youtu.be/MzhiVE6OuQA?si=ztJb_Hhx7epl5nFu",
+    "resource_url":"https://www.geeksforgeeks.org/computer-networks/what-is-ethernet/",
+    "topics": ["ethernet", "ieee 802 3", "mac address", "ethernet frame", "csma cd", "lan protocol"],
+    "my_note": "Presents frame fields—preamble, MAC addresses, payload, and CRC—in a simple left-to-right walkthrough."
+  },
+  {
+    "title": "Token Ring Architecture & IEEE 802.5 Protocol",
+    "url": "https://youtu.be/6r5j_ayCq5A?si=hjaDB20KttNVbyvg",
+    "resource_url":"https://www.coursera.org/articles/token-ring",
+    "topics": ["token ring", "ieee 802 5", "token passing", "mac protocol", "ring topology"],
+    "my_note": "Detailed explanation of deterministic channel access, token passing cycles, and collision-free LAN dynamics."
+  },
+  {
+    "title": "VLAN Concepts: Virtual Local Area Networks Explained",
+    "url": "https://youtu.be/ez24W5oTU3U?si=SfRCB7oL4PLGMCW7",
+    "resource_url":"https://www.geeksforgeeks.org/computer-networks/virtual-lan-vlan/",
+    "topics": ["vlan", "virtual lan", "ieee 802 1q", "trunking", "broadcast domain", "switch configuration"],
+    "my_note": "Visualizes broadcast domain isolation and 802.1Q tagging on trunk links in multi-switch enterprise setups."
+  },
+  {
+    "title": "IP Addressing: IPv4 Classes, Subnetting & CIDR",
+    "url": "https://youtu.be/yDTC6sbYFFE?si=uOcdzC5XCmFeTwlq",
+    "resource_url":"https://www.geeksforgeeks.org/computer-science-fundamentals/what-is-an-ip-address/",
+    "topics": ["addressing", "ipv4", "ip address", "subnetting", "classful addressing", "cidr", "network host id"],
+    "my_note": "Essential guide for calculating host ranges, network masks, and broadcast addresses quickly during exams."
+  },
+  {
+    "title": "Routing Protocols Overview: IGP, EGP, RIP, OSPF & BGP",
+    "url": "https://youtu.be/rA0p0ouD3aE?si=1C20IyGWXqdAmO5a",
+    "resource_url":"https://afzalbadshah.medium.com/understanding-routing-in-computer-networks-from-basics-to-advanced-protocols-7f3542fe695f",
+    "topics": ["routing protocols", "rip", "ospf", "bgp", "interior gateway protocol", "exterior gateway protocol"],
+    "my_note": "Excellent high-level categorizer comparing distance vector, link-state, and path-vector protocol classes."
+  },
+  {
+    "title": "UDP Protocol Fundamentals & Header Structure (Part 1)",
+    "url": "https://youtu.be/OFkiaIjTXW8?si=rP__Ew8B5jLaME4I",
+    "resource_url":"https://www.geeksforgeeks.org/computer-networks/user-datagram-protocol-udp/",
+    "topics": ["udp protocol", "user datagram protocol", "transport layer", "connectionless", "udp header"],
+    "my_note": "Analyzes the lean 8-byte UDP header and explains connectionless operational efficiency."
+  },
+  {
+    "title": "UDP Applications & Error Handling (Part 2)",
+    "url": "https://youtu.be/lsVRbzdEvsk?si=7VHeeJgfYOGQtf4k",
+    "resource_url":"https://www.geeksforgeeks.org/computer-networks/user-datagram-protocol-udp/",
+    "topics": ["udp protocol", "checksum", "dns", "streaming", "transport layer"],
+    "my_note": "Covers practical use cases (DNS, streaming) where real-time speed overrides packet retransmission needs."
+  },
+  {
+    "title": "TCP Protocol Deep Dive: Handshake, Header & Flags",
+    "url": "https://youtu.be/pfU_IgdEzMs?si=hGVM32MGipOg-teX",
+    "resource_url":"https://www.geeksforgeeks.org/computer-networks/what-is-transmission-control-protocol-tcp/",
+    "topics": ["tcp protocol", "three way handshake", "transmission control protocol", "connection oriented", "tcp header"],
+    "my_note": "Clear breakdown of the SYN-SYN/ACK-ACK 3-way handshake and sequence number management."
+  },
+  {
+    "title": "Transport Layer Comparison: SCTP vs UDP vs TCP",
+    "url": "https://youtu.be/FrU0Pjtp81s?si=hWk9bmdqwwBiXJYY",
+    "resource_url":"https://www.geeksforgeeks.org/computer-networks/what-is-transmission-control-protocol-tcp/",
+    "topics": ["sctp", "udp", "tcp", "transport layer", "multi homing", "stream control transmission protocol"],
+    "my_note": "Great side-by-side comparative table framing when to pick multi-streaming SCTP over standard TCP or UDP."
+  },
+  {
+    "title": "Client-Server Architecture vs Peer-to-Peer (P2P) Model",
+    "url": "https://youtu.be/10bXft8qa38?si=FZByH73UTJ8mE7We",
+    "resource_url":"https://gauravssah.medium.com/understanding-client-server-vs-peer-to-peer-networks-57618dffb384",
+    "topics": ["client server", "peer to peer", "p2p", "application layer", "network models"],
+    "my_note": "Contrasts centralized request-response paradigms against decentralized node architectures with trade-off examples."
+  },
+  {
+    "title": "File Transfer Protocols (FTP & SFTP) Fundamentals",
+    "url": "https://youtu.be/SVTQQvIwgbM?si=Z2lAUJXvTOp0Vw2x",
+    "resource_url":"https://ncert.nic.in/textbook/pdf/lecs111.pdf",
+    "topics": ["fts", "file transfer protocol", "ftp", "control connection", "data connection", "application layer"],
+    "my_note": "Explains dual-channel dynamics (port 20 for data, port 21 for control) which frequently pops up in viva sessions."
+  },
+  {
+    "title": "SMTP Protocol: Simple Mail Transfer Protocol Architecture",
+    "url": "https://youtu.be/SdnK9KVBSww?si=I9Zrg38-oXg4q1LV",
+    "resource_url":"https://ncert.nic.in/textbook/pdf/lecs111.pdf",
+    "topics": ["smtp", "email protocols", "mail transfer agent", "port 25", "application layer"],
+    "my_note": "Walks through end-to-end email push delivery mechanisms between Mail Transfer Agents (MTAs)."
+  },
+  {
+    "title": "HTTP Protocol Architecture: Requests, Responses & Methods",
+    "url": "https://youtu.be/_szgZM1sDiM?si=s6X5C3T1rlwCZ2b5",
+    "resource_url":"https://ncert.nic.in/textbook/pdf/lecs111.pdf",
+    "topics": ["http", "web protocols", "get post", "status codes", "stateless protocol", "application layer"],
+    "my_note": "Clear walkthrough of client request headers, server status codes, and stateless connection mechanics."
+  },
+  {
+    "title": "DNS Protocol: Domain Name System Resolution Walkthrough",
+    "url": "https://youtu.be/5EHuZNaGyPs?si=eZS1lQs-zgTrgXMR",
+    "resource_url":"https://www.ibm.com/think/topics/dns-protocol",
+    "topics": ["dns", "domain name system", "dns resolution", "root server", "tld server", "a record"],
+    "my_note": "Traces recursive and iterative hostname queries step-by-step from browser cache to root nameservers."
+  },
+  {
+    "title": "POP3 vs IMAP Protocol Comparison for Email Retrieval",
+    "url": "https://youtu.be/X-aAplw-cQ0?si=c3CAFGNFinQk9zUF",
+    "resource_url":"https://www.geeksforgeeks.org/computer-networks/what-is-pop3-post-office-protocol-version-3/",
+    "topics": ["pop3", "imap", "email retrieval", "mail server", "application layer"],
+    "my_note": "Highlights local download (POP3) vs server-synchronized state (IMAP) trade-offs clearly."
+  },
+  {
+    "title": "Distance Vector Routing Algorithm & Count to Infinity Problem",
+    "url": "https://youtu.be/hkaYIg01dDk?si=-IcMwcT9sbudg72T",
+    "resource_url":"https://www.geeksforgeeks.org/computer-networks/distance-vector-routing-dvr-protocol/",
+    "topics": ["distance vector routing algorithm", "bellman ford", "count to infinity", "rip", "routing tables"],
+    "my_note": "Demonstrates step-by-step Bellman-Ford calculations along with split-horizon solutions for count-to-infinity."
+  },
+  {
+    "title": "Static vs Dynamic Routing Protocols",
+    "url": "https://youtu.be/FEdhERayt-U?si=ov7R9rVueN14UrFH",
+    "resource_url":"https://www.geeksforgeeks.org/computer-networks/difference-between-static-and-dynamic-routing/",
+    "topics": ["static routing", "dynamic routing", "routing table", "administrative distance", "network administration"],
+    "my_note": "Direct feature comparison showing manual configuration trade-offs versus automated adaptive protocol overhead."
+  },
+  {
+    "title": "ALOHA Protocols: Pure ALOHA vs Slotted ALOHA Throughput",
+    "url": "https://youtu.be/j4-r0e7DjqY?si=WOhC6f4tJduwKRUO",
+    "resource_url":"https://www.tutorialspoint.com/data_communication_computer_network/aloha_protocol.htm",
+    "topics": ["aloha", "pure aloha", "slotted aloha", "multiple access", "throughput calculation", "vulnerable time"],
+    "my_note": "Derives efficiency formulas ($18.4\\%$ vs $36.8\\%$) with crisp vulnerability-period visuals."
+  },
+  {
+    "title": "Flow Control Protocols: Stop and Wait, Go-Back-N, Selective Repeat",
+    "url": "https://youtu.be/ReQiSK8W3Ag?si=gVD-V6yv-8Xf8p84",
+    "resource_url":"https://www.geeksforgeeks.org/computer-networks/flow-control-in-data-link-layer/",
+    "topics": ["flow control", "stop and wait", "go back n", "selective repeat", "sliding window", "data link layer"],
+    "my_note": "Compares sender/receiver window sizes across sliding window protocols to clarify frame buffering dynamics."
+  },
+  {
+    "title": "Error Control Techniques: Parity, Checksum, CRC & Hamming Code",
+    "url": "https://youtu.be/batGbYbX0x0?si=fDHSOuiHpVAa6dqx",
+    "resource_url":"https://www.tutorialspoint.com/data_communication_computer_network/computer_network_error_control.htm",
+    "topics": ["error control", "error detection", "error correction", "crc", "hamming code", "parity bit"],
+    "my_note": "Walks through polynomial modulo-2 division for CRC computation—an absolute staple for university exams."
+  },
+  {
+    "title": "Management Spectrum in Software Engineering (4 Ps)",
+    "url": "https://youtu.be/f4uKk_gPOk4?si=8AdI7I7geFxNF85i",
+    "resource_url":"https://www.studocu.com/in/document/rajasthan-technical-university/masters-of-computer-application/spm-unit-1/95871977?sid=f3a9767e-8ece-41ed-ab0f-359fc2ba1f511791043867",
+    "topics": ["management spectrum", "4 ps", "people", "product", "process", "project", "spm"],
+    "my_note": "Crucial foundational concept covering the 4 Ps (People, Product, Process, Project). High chance of being asked as a 5-mark theory question."
+  },
+  {
+    "title": "Organizational Structures in Software Engineering",
+    "url": "https://youtu.be/rrBvDcM1quc?si=pSMI2kQlHVXM-h7-",
+    "resource_url":"https://www.geeksforgeeks.org/software-engineering/software-development-organizational-structure/",
+    "topics": ["organisational structure", "functional structure", "matrix structure", "projectized structure", "spm"],
+    "my_note": "Compares Functional, Matrix, and Projectized organization styles. Pay close attention to authority allocation across structures."
+  },
+  {
+    "title": "Job Roles & Responsibilities in Software Project Management",
+    "url": "https://youtu.be/5HUj22rLsqA?si=kh4U7jAwLNBEpjr1",
+    "resource_url":"https://www.indeed.com/career-advice/career-development/software-company-roles",
+    "topics": ["job roles", "project manager", "scrum master", "system analyst", "team structure"],
+    "my_note": "Great overview of core team responsibilities and leadership roles required throughout the software project lifecycle."
+  },
+  {
+    "title": "Stakeholder Management & Identification in SPM",
+    "url": "https://youtu.be/lieVJU9jv6U?si=XQ0tp7-al4AQTvc5",
+    "resource_url":"https://www.geeksforgeeks.org/business-studies/stakeholder-management-introduction-types-and-strategies/",
+    "topics": ["stakeholders", "stakeholder analysis", "project team", "clients", "sponsors"],
+    "my_note": "Explains how to categorize internal and external stakeholders and manage their expectations effectively."
+  },
+  {
+    "title": "Project Communication Management Plan",
+    "url": "https://youtu.be/iauvlHlMCWE?si=ocq6R9caeRZfqpli",
+    "resource_url":"https://www.wrike.com/project-management-guide/faq/what-is-project-communication-management/",
+    "topics": ["communication management", "communication channels", "reporting", "spm"],
+    "my_note": "Focus on the communication channels formula [n(n-1)/2]. A very common numerical/theory topic in university papers."
+  },
+  {
+    "title": "Project Development Phases & Lifecycle Stages",
+    "url": "https://youtu.be/5DurtA7MXto?si=Qv7P8H1kGrnHdIT6",
+    "resource_url":"https://www.manage.gov.in/studymaterial/PM.pdf",
+    "topics": ["project phases", "initiation", "planning", "execution", "monitoring", "closure"],
+    "my_note": "Walks through project lifecycle phases from initiation to closing. Essential for mapping out lifecycle workflows."
+  },
+  {
+    "title": "Project Charter Elements & Creation Walkthrough",
+    "url": "https://youtu.be/YmyMeauyItk?si=CSiA1PeixxXGipRA",
+    "resource_url":"https://www.wrike.com/project-management-guide/faq/what-is-a-project-charter-in-project-management/",
+    "topics": ["project charter", "project initiation", "scope baseline", "authorization"],
+    "my_note": "Explains key components of a formal Project Charter (objectives, scope, constraints, and sponsor sign-offs)."
+  },
+  {
+    "title": "Work Breakdown Structure (WBS) Creation & Decomposition",
+    "url": "https://youtu.be/-T6JhbbBI7I?si=CnV8V15WrqGLY2A1",
+    "resource_url":"https://www.atlassian.com/work-management/project-management/work-breakdown-structure",
+    "topics": ["wbs", "work breakdown structure", "decomposition", "work packages", "project planning"],
+    "my_note": "Clear breakdown of breaking deliverables down into manageable work packages. Essential for exam diagram questions."
+  },
+  {
+    "title": "Software Development Life Cycle (SDLC) Models",
+    "url": "https://youtu.be/kSU2MPeptpM?si=jHSnSezvWe9c2xCq",
+    "resource_url":"https://www.geeksforgeeks.org/software-engineering/sdlc-models-types-phases-use/",
+    "topics": ["sdlc", "waterfall model", "agile", "spiral model", "incremental model"],
+    "my_note": "Comprehensive comparison of classic vs iterative SDLC models. Ideal for understanding process model selection."
+  },
+  {
+    "title": "COCOMO Model Estimation (Basic, Intermediate, Detailed)",
+    "url": "https://youtu.be/PfD4G4ZZAMA?si=Cc5kn6wrWlgTA7IF",
+    "resource_url":"https://www.datacamp.com/tutorial/cocomo-model",
+    "topics": ["cocomo model", "cost estimation", "organic", "semidetached", "embedded", "kloc"],
+    "my_note": "Must-watch for solving effort and duration formulas (KLOC calculations). Guaranteed numerical question area."
+  },
+  {
+    "title": "Net Present Value (NPV) Calculation in Project Evaluation",
+    "url": "https://youtu.be/sTvV0fkLhh0?si=DfwaS0M8W2PcBrCt",
+    "resource_url":"https://www.manage.gov.in/studymaterial/PM.pdf",
+    "topics": ["net present value", "npv", "cost benefit analysis", "discount rate", "financial evaluation"],
+    "my_note": "Step-by-step mathematical guide to calculating NPV for financial feasibility analysis."
+  },
+  {
+    "title": "Payback Period Models for Project Selection",
+    "url": "https://youtu.be/hAYAdBIzMUI?si=C1NMmy392J03qCNN",
+    "resource_url":"https://www.manage.gov.in/studymaterial/PM.pdf",
+    "topics": ["payback model", "payback period", "project selection", "financial feasibility", "roi"],
+    "my_note": "Explains how to compute initial investment recovery time. Very easy scoring topic in financial evaluation."
+  },
+  {
+    "title": "PERT & CPM Network Diagram Calculations",
+    "url": "https://youtu.be/N_3wIn1mMKI?si=IYhG72yZqU1U1vi-",
+    "resource_url":"https://www.manage.gov.in/studymaterial/PM.pdf",
+    "topics": ["pert", "cpm", "critical path method", "network diagram", "float", "slack time"],
+    "my_note": "Critical video for learning forward pass, backward pass, float time, and critical path identification."
+  },
+  {
+    "title": "Risk Management: Identification, Analysis & Mitigation",
+    "url": "https://youtu.be/4SWEX4L2dOc?si=JAz2oXuhCgzQHXzU",
+    "resource_url":"https://medium.com/predict/what-is-risk-management-in-software-engineering-key-processes-examples-and-best-practices-c4afd6d6eb9e",
+    "topics": ["risk management", "risk identification", "risk analysis", "risk mitigation", "rmm plan"],
+    "my_note": "Covers the entire RMMM (Risk Mitigation, Monitoring, and Management) strategy and risk exposure formulas."
+  },
+  {
+    "title": "Software Configuration Management (SCM) Overview",
+    "url": "https://youtu.be/Z-pqT1phY5E?si=pCwy-UEsgSiVQ2i_",
+    "resource_url":"https://www.geeksforgeeks.org/software-engineering/software-engineering-system-configuration-management/",
+    "topics": ["scm", "software configuration management", "baselines", "configuration items", "ci"],
+    "my_note": "Explains configuration baselines and Configuration Items (CIs) needed to control baseline stability."
+  },
+  {
+    "title": "Version Control Systems (VCS) Concepts",
+    "url": "https://youtu.be/d50BUkHbB2o?si=6aU2T9bzB80qSz3f",
+    "resource_url":"https://about.gitlab.com/topics/version-control/",
+    "topics": ["version control", "git", "repository", "branching", "merging", "scm"],
+    "my_note": "Walks through centralized vs distributed version control systems and branching/merging strategies."
+  },
+  {
+    "title": "Change Control Process in Software Projects",
+    "url": "https://youtu.be/1CSQa8AKwLI?si=f1vDA7z6tVapJz5s",
+    "resource_url":"https://about.gitlab.com/topics/version-control/",
+    "topics": ["change control", "change control board", "ccb", "cr", "change request"],
+    "my_note": "Focuses on the Change Request (CR) lifecycle and the role of the Change Control Board (CCB)."
+  },
+  {
+    "title": "Software Configuration Audit Procedures",
+    "url": "https://youtu.be/WjlhPwBcMN4?si=spyTWXC3XNwdOrXa",
+    "resource_url":"https://www.geeksforgeeks.org/software-engineering/software-engineering-system-configuration-management/",
+    "topics": ["software configuration audit", "functional audit", "physical audit", "pca", "fca"],
+    "my_note": "Differentiates Functional Configuration Audits (FCA) from Physical Configuration Audits (PCA)."
+  },
+  {
+    "title": "Project Status Reporting & Progress Tracking",
+    "url": "https://youtu.be/Wgstmcj48EM?si=FuGx4XQGd-_Y03lQ",
+    "resource_url":"https://www.atlassian.com/agile/project-management/status-report",
+    "topics": ["status reporting", "milestone tracking", "earned value analysis", "progress reporting"],
+    "my_note": "Details periodic status reports, milestone tracking charts, and team progress metrics."
+  },
+  {
+    "title": "Software Quality Assurance (SQA) Plan & Standards",
+    "url": "https://youtu.be/aXD7sh6_YHo?si=fwfDMpoXZ6q98gFi",
+    "resource_url":"https://www.geeksforgeeks.org/software-testing/software-engineering-software-quality-assurance/",
+    "topics": ["sqa", "software quality assurance", "quality control", "iso 9000", "cmmi"],
+    "my_note": "Highlights key differences between SQA (preventative) and Quality Control (detective) plus CMMI standards."
+  },
+  {
+    "title": "Project Closure & Post-Implementation Review",
+    "url": "https://youtu.be/eGiWSjo6FAM?si=j94G1VmhU1SvmRue",
+    "resource_url":"https://plane.so/blog/what-is-project-closure",
+    "topics": ["project closure", "post mortem", "lessons learned", "project release", "spm"],
+    "my_note": "Covers handoff procedures, post-mortem analysis, and archival of project artifacts."
+  },
+  {
+    "title": "Internet Fundamentals & Web Architecture",
+    "url": "https://youtu.be/YtxLexm-9pI?si=b5D9r8utQLx3Yx_t",
+    "resource_url":"https://cvrp.edu.in/wp-content/uploads/2024/06/IWT-NOTE.pdf",
+    "topics": ["internet", "tcp ip", "http", "dns", "web basics", "client server"],
+    "my_note": "Essential overview of how packets route across TCP/IP, DNS resolution, and client-server request-response cycles."
+  },
+  {
+    "title": "Introduction to Java & JVM Architecture",
+    "url": "https://youtu.be/mG4NLNZ37y4?si=PvqiEtnS24s5BQH7",
+    "resource_url":"https://www.linkedin.com/posts/ritesh-kumar-mishra-35273b298_core-java-easy-handwritten-notes-ugcPost-7376813062445690880-5qb2/",
+    "topics": ["java introduction", "jdk", "jre", "jvm", "platform independence", "bytecode"],
+    "my_note": "Focus on how Java achieves write once, run anywhere (WORA) via bytecode and JVM compilation."
+  },
+  {
+    "title": "Variables & Memory Allocation in Java",
+    "url": "https://youtu.be/N8LDSryePuc?si=6ywbwQj5MRHWURw6",
+    "resource_url":"https://www.linkedin.com/posts/ritesh-kumar-mishra-35273b298_core-java-easy-handwritten-notes-ugcPost-7376813062445690880-5qb2/",
+    "topics": ["variables in java", "local variables", "instance variables", "static variables", "scope"],
+    "my_note": "Differentiates local, instance, and class (static) variables along with stack vs heap memory behavior."
+  },
+  {
+    "title": "Data Types & Type Conversion in Java",
+    "url": "https://youtu.be/UwpXXiGdlOE?si=yCQnatmBFBp-jBvq",
+    "resource_url":"https://www.linkedin.com/posts/ritesh-kumar-mishra-35273b298_core-java-easy-handwritten-notes-ugcPost-7376813062445690880-5qb2/",
+    "topics": ["datatypes in java", "primitive types", "non primitive", "typecasting", "wrapper classes"],
+    "my_note": "Covers Java's 8 primitive types, default sizes, type casting rules, and automatic widening vs explicit narrowing."
+  },
+  {
+    "title": "Classes, Objects & Constructors in Java",
+    "url": "https://youtu.be/W-D71ZeMixQ?si=rwYZ3Y-cuxEyKODY",
+    "resource_url":"https://www.linkedin.com/posts/ritesh-kumar-mishra-35273b298_core-java-easy-handwritten-notes-ugcPost-7376813062445690880-5qb2/",
+    "topics": ["classes and objects in java", "oop", "constructors", "new keyword", "instantiation"],
+    "my_note": "Core object-oriented building block—explains class blueprints, object creation, memory references, and constructors."
+  },
+  {
+    "title": "Inheritance & Polymorphism in Java",
+    "url": "https://youtu.be/mVdapUEaSuA?si=HY8h-4XpOhEmuX46",
+    "resource_url":"https://www.linkedin.com/posts/ritesh-kumar-mishra-35273b298_core-java-easy-handwritten-notes-ugcPost-7376813062445690880-5qb2/",
+    "topics": ["inheritance and polymorphism", "extends", "method overloading", "method overriding", "dynamic binding"],
+    "my_note": "Highlights single/multilevel/hierarchical inheritance and contrasts compile-time overloading with runtime overriding."
+  },
+  {
+    "title": "Abstract Classes vs Interfaces in Java",
+    "url": "https://youtu.be/O8Gl4RYgg0k?si=az_hhget-T9S0-B-",
+    "resource_url":"https://www.linkedin.com/posts/ritesh-kumar-mishra-35273b298_core-java-easy-handwritten-notes-ugcPost-7376813062445690880-5qb2/",
+    "topics": ["abstract classes and interfaces", "abstract keyword", "implements", "multiple inheritance", "abstraction"],
+    "my_note": "A top-tier exam comparison question: abstract classes (partial abstraction) vs interfaces (100% pure abstraction)."
+  },
+  {
+    "title": "Operators & Expression Evaluation in Java",
+    "url": "https://youtu.be/1CJJ61ga0JU?si=Vkb7bHNqmlNtCsEn",
+    "resource_url":"https://www.linkedin.com/posts/ritesh-kumar-mishra-35273b298_core-java-easy-handwritten-notes-ugcPost-7376813062445690880-5qb2/",
+    "topics": ["operators in java", "arithmetic", "relational", "logical", "bitwise", "ternary operator"],
+    "my_note": "Reviews operator precedence, short-circuit logical operators (&&, ||), and bitwise shifting operations."
+  },
+  {
+    "title": "Arrays & Multi-Dimensional Array Processing",
+    "url": "https://youtu.be/q7nKVbxW5cY?si=VHz30MWPASF1NFKn",
+    "resource_url":"https://www.linkedin.com/posts/ritesh-kumar-mishra-35273b298_core-java-easy-handwritten-notes-ugcPost-7376813062445690880-5qb2/",
+    "topics": ["array", "single dimensional array", "2d array", "array indexing", "memory allocation"],
+    "my_note": "Explains array instantiation, memory contiguity, bounds checking (ArrayIndexOutOfBoundsException), and 2D matrix traversal."
+  },
+  {
+    "title": "Exception Handling: Try, Catch, Throw & Throws",
+    "url": "https://youtu.be/gVk9Fgpwh-I?si=LdlpJ60FIgGk7IUJ",
+    "resource_url":"https://www.linkedin.com/posts/ritesh-kumar-mishra-35273b298_core-java-easy-handwritten-notes-ugcPost-7376813062445690880-5qb2/",
+    "topics": ["exception handling", "try catch", "finally block", "checked exception", "unchecked exception", "throw throws"],
+    "my_note": "Key concepts: checked vs unchecked exceptions, customizing exception classes, and guaranteed execution in finally blocks."
+  },
+  {
+    "title": "Multithreading & Thread Synchronization in Java",
+    "url": "https://youtu.be/LEsvDyqPzPM?si=6oIUb__CFw6eQiIQ",
+    "resource_url":"https://www.linkedin.com/posts/ritesh-kumar-mishra-35273b298_core-java-easy-handwritten-notes-ugcPost-7376813062445690880-5qb2/",
+    "topics": ["multithreading in java", "thread class", "runnable interface", "thread lifecycle", "synchronized"],
+    "my_note": "Walks through extending Thread vs implementing Runnable, state transitions, and preventing race conditions via synchronization."
+  },
+  {
+    "title": "Java I/O Streams & Byte vs Character Streams",
+    "url": "https://youtu.be/OXeGygg00V8?si=rRmgCC_KKJhTDOAe",
+    "resource_url":"https://www.linkedin.com/posts/ritesh-kumar-mishra-35273b298_core-java-easy-handwritten-notes-ugcPost-7376813062445690880-5qb2/",
+    "topics": ["java i/o", "inputstream", "outputstream", "reader", "writer", "buffered stream"],
+    "my_note": "Compares byte streams (InputStream/OutputStream) against character streams (Reader/Writer) for stream processing."
+  },
+  {
+    "title": "File Handling: Reading & Writing Files in Java",
+    "url": "https://youtu.be/U4fQY-Frhz8?si=TSdL9qLmwJSUIpXO",
+    "resource_url":"https://www.linkedin.com/posts/ritesh-kumar-mishra-35273b298_core-java-easy-handwritten-notes-ugcPost-7376813062445690880-5qb2/",
+    "topics": ["file handling", "file class", "filereader", "filewriter", "bufferedreader", "serialization"],
+    "my_note": "Practical guide to performing CRUD operations on local disk files using FileReader, FileWriter, and BufferedReader."
+  },
+  {
+    "title": "Java Applets Architecture & Lifecycle",
+    "url": "https://youtu.be/CHWzM9kCFFQ?si=lO2R_Fa6xmJwB-Xv",
+    "resource_url":"https://www.pvpsiddhartha.ac.in/dep_it/lecture%20notes/JAVA/unit3.pdf",
+    "topics": ["java applet", "applet lifecycle", "init", "start", "stop", "destroy", "web browser"],
+    "my_note": "Legacy GUI topic detailing the 5 lifecycle methods (init, start, paint, stop, destroy) embedded in HTML."
+  },
+  {
+    "title": "Abstract Window Toolkit (AWT) Components",
+    "url": "https://youtu.be/WPLDPL2kwuk?si=Hh9ZJd-ryMSFJ-YN",
+    "resource_url":"https://www.gpahmedabad.ac.in/uploads/7/coursedetails/studymaterials/3360701_Unit2.pdf",
+    "topics": ["awt", "gui components", "button", "label", "textfield", "heavyweight components"],
+    "my_note": "Covers platform-dependent heavyweight components and basic event listener bindings."
+  },
+  {
+    "title": "Layout Managers in Java AWT & Swing",
+    "url": "https://youtu.be/JMkHA2ndook?si=aXyNMoawyzxT7X7l",
+    "resource_url":"https://www.gpahmedabad.ac.in/uploads/7/coursedetails/studymaterials/3360701_Unit2.pdf",
+    "topics": ["layout", "flowlayout", "borderlayout", "gridlayout", "cardlayout", "container"],
+    "my_note": "Explains position strategies for components using FlowLayout, BorderLayout, and GridLayout."
+  },
+  {
+    "title": "Creating Menus & Menu Bars in GUI Applications",
+    "url": "https://youtu.be/ZS_ki7V5NSM?si=s2HADgwDwIdeRIII",
+    "resource_url":"https://www.gpahmedabad.ac.in/uploads/7/coursedetails/studymaterials/3360701_Unit2.pdf",
+    "topics": ["menus in java", "menubar", "menu", "menuitem", "checkboxmenuitem", "gui design"],
+    "my_note": "Step-by-step assembly of top-level application navigation using MenuBar, Menu, and MenuItem listener triggers."
+  },
+  {
+    "title": "2D Graphics & Custom Drawing with Graphics Class",
+    "url": "https://youtu.be/kfUA8aqKdXA?si=oyzKWEMk5soErMZZ",
+    "resource_url":"https://www.geeksforgeeks.org/java/what-is-java-awt-graphics/",
+    "topics": ["graphics", "graphics class", "paint method", "drawline", "drawrect", "color"],
+    "my_note": "Uses the paint(Graphics g) method to draw custom shapes, text strings, and colors on frame surfaces."
+  },
+  {
+    "title": "Network Programming in Java (Sockets & URLs)",
+    "url": "https://youtu.be/A-nBeR_2s7I?si=y4BaUl2AtA3XhTKj",
+    "resource_url":"https://docs.oracle.com/javase/tutorial/networking/overview/networking.html",
+    "topics": ["networking with java", "socket programming", "serversocket", "ip address", "url connection", "tcp udp"],
+    "my_note": "Core networking concepts implementing client-server socket communication with Socket and ServerSocket classes."
+  },
+  {
+    "title": "Java Swing Framework & Lightweight Components",
+    "url": "https://www.youtube.com/live/6zm8c6QFmjo?si=6SJLoH9bCWDOxhf8",
+    "resource_url":"https://cse.iitkgp.ac.in/~dsamanta/java/ch10.htm",
+    "topics": ["java swing", "jframe", "jbutton", "jpanel", "lightweight components", "mvc"],
+    "my_note": "Deep dive into Swing's platform-independent, pluggable look-and-feel GUI system over traditional AWT."
+  },
+  {
+    "title": "Applet vs Standalone Application Comparison",
+    "url": "https://youtu.be/5Y-l8rHHXao?si=o8AVGeMbTfoszwEJ",
+    "resource_url":"https://www.geeksforgeeks.org/java/difference-between-a-java-application-and-a-java-applet/",
+    "topics": ["applet and application", "main method", "security sandbox", "browser execution", "standalone"],
+    "my_note": "Classic comparison covering execution contexts (browser sandbox vs local main method runtime)."
+  },
+  {
+    "title": "Java Database Connectivity (JDBC) Architecture",
+    "url": "https://youtu.be/y_YxwyYRJek?si=VKMcfHW2hIj6hQBw",
+    "resource_url":"https://www3.ntu.edu.sg/home/ehchua/programming/java/JDBC_Basic.html",
+    "topics": ["jdbc", "database connectivity", "jdbc drivers", "connection", "statement", "resultset"],
+    "my_note": "5 steps of JDBC execution: load driver, establish connection, create statement, execute query, close connection."
+  },
+  {
+    "title": "Working with java.sql Package Interfaces",
+    "url": "https://youtu.be/afMUNOKNTec?si=oygNzur80bQtPHPi",
+    "resource_url":"https://docs.oracle.com/javase/8/docs/api/java/sql/package-summary.html",
+    "topics": ["java.sql package", "drivermanager", "connection interface", "preparedstatement", "sqlexception"],
+    "my_note": "Focuses on essential interfaces in `java.sql` and preventing SQL injection using PreparedStatement."
+  },
+  {
+    "title": "Connecting Java Applications to Remote Databases",
+    "url": "https://youtu.be/T7igRZNJ608?si=PTMqfTq7B2ek4diH",
+    "resource_url":"NULL",
+    "topics": ["connecting java program to remote database", "remote db", "mysql jdbc connection", "connection string", "credentials"],
+    "my_note": "Configuring remote JDBC connection URLs (e.g., `jdbc:mysql://host:port/dbname`) with authentication credentials."
+  },
+  {
+    "title": "Java Servlets Core Fundamentals & Web Containers",
+    "url": "https://youtu.be/xve6QEgIR-0?si=kFC_WfmKBzRhcQR4",
+    "resource_url":"https://www.pvpsiddhartha.ac.in/dep_it/lecture%20notes/WT_PVP20/UNIT%204.pdf",
+    "topics": ["servlet in java", "httpservlet", "web container", "tomcat", "web xml", "deployment descriptor"],
+    "my_note": "Explains server-side web application handling, request processing, and dynamic HTML generation."
+  },
+  {
+    "title": "Servlet Lifecycle: init(), service(), and destroy()",
+    "url": "https://youtu.be/uAC7j7j1lS8?si=73B_2xta-1JbvSE5",
+    "resource_url":"https://www.geeksforgeeks.org/java/life-cycle-of-a-servlet/",
+    "topics": ["life cycle of Servlet", "servlet init", "servlet service", "servlet destroy", "web container management"],
+    "my_note": "High-priority exam topic: container loading, single init execution, multithreaded service calls, and final garbage collection."
+  },
+  {
+    "title": "JavaServer Pages (JSP) & Scripting Elements",
+    "url": "https://youtu.be/I0YKLJv1KGU?si=isfJor8UoVL9adHZ",
+    "resource_url":"https://www.geeksforgeeks.org/advance-java/introduction-to-jsp/",
+    "topics": ["jsp", "javaserver pages", "scriptlets", "jsp directives", "implicit objects", "expression tag"],
+    "my_note": "Covers JSP architecture, translation into servlets, and syntax elements like `<% %>`, `<%= %>`, and `<%! %>`."
+  },
+  {
+    "title": "Deploying & Running Servlets in Apache Tomcat",
+    "url": "https://youtu.be/bHZkuwMdLmc?si=VoGYxzaV6x39_AJy",
+    "resource_url":"https://medium.com/@0xnitt/deployment-of-a-servlet-572583e470cf",
+    "topics": ["running servlet", "tomcat deployment", "servlet mapping", "annotations", "web content structure"],
+    "my_note": "Practical guide to directory structure, web.xml configuration vs `@WebServlet` annotations, and server startup."
+  },
+  {
+    "title": "HTTP Redirection & Request Dispatching in Servlets",
+    "url": "https://youtu.be/AUa50Yy8214?si=ncQS05ad834AZg_n",
+    "resource_url":"https://medium.com/@SachinPandeyOnline/advanced-java-servlet-collaboration-requestdispatcher-sendredirect-e318af6fdd83",
+    "topics": ["http redirect", "sendredirect", "requestdispatcher", "forward", "client vs server redirection"],
+    "my_note": "Compares `response.sendRedirect()` (client-side round trip) with `requestDispatcher.forward()` (server-side transfer)."
+  },
+  {
+    "title": "Session Management with Cookies in Servlets",
+    "url": "https://youtu.be/LILHZhIV9sM?si=gZrvTTJTlSgYxJBI",
+    "resource_url":"https://www.geeksforgeeks.org/java/servlet-cookies/",
+    "topics": ["cookies in servlet", "cookie class", "session management", "max age", "addcookie", "getcookies"],
+    "my_note": "Explains state maintenance over stateless HTTP using Cookie objects, max age configuration, and request headers."
+  },
+  {
+    "title": "Remote Method Invocation (RMI) Architecture",
+    "url": "https://youtu.be/GKIwu6XyqPI?si=C5knJPYrHg2ExNle",
+    "resource_url":"https://www.geeksforgeeks.org/java/remote-method-invocation-in-java/",
+    "topics": ["rmi in java", "remote method invocation", "stub and skeleton", "rmiregistry", "distributed computing"],
+    "my_note": "Distributed system concepts: stub (client proxy), skeleton (server adapter), RMI Registry lookup, and Remote interface."
+  },
+  {
+    "title": "SQL Fundamentals & Relational Query Basics",
+    "url": "https://youtu.be/hlGoQC332VM?si=gMi9ZaSha5n_fufM",
+    "resource_url":"https://ncert.nic.in/textbook/pdf/keip108.pdf",
+    "topics": ["sql", "rdbms", "ddl", "dml", "dcl", "tcl", "queries", "database"],
+    "my_note": "Core relational database concepts covering basic syntax for querying, filtering (WHERE), joining tables, and command categories (DDL, DML, DCL, TCL)."
+  },
+  {
+    "title": "Oracle Database Architecture & Storage Structures",
+    "url": "https://youtu.be/t3PLTtc3Vuo?si=oN65agpCb0DnFhqo",
+    "resource_url":"https://www.oracle.com/webfolder/technetwork/tutorials/architecture-diagrams/19/pdf/db-19c-architecture.pdf",
+    "topics": ["oracle database architecture", "oracle db", "sga", "pga", "tablespaces", "background processes", "datafiles"],
+    "my_note": "Essential breakdown of memory structures (SGA, PGA), physical/logical storage structures, and background processes like DBWn and LGWR."
+  },
+  {
+    "title": "SQL*Plus Command Line Interface & Operations",
+    "url": "https://youtu.be/8PEV-GTfMGs?si=jQzhwRXIr6ktcRpM",
+    "resource_url":"https://docs.oracle.com/en/database/oracle/oracle-database/19/sqlqr/SQL-Plus-Commands.html",
+    "topics": ["sql *plus", "sqlplus", "oracle cli", "buffer commands", "formatting", "script execution"],
+    "my_note": "Practical guide to running scripts, managing SQL buffer commands, and configuring output layout inside Oracle's command-line tool."
+  },
+  {
+    "title": "Client-Server Architecture in Database Systems",
+    "url": "https://youtu.be/c4w-37mWIRY?si=RywAp-7I1r-4LtHQ",
+    "resource_url":"https://alg.manifoldapp.org/read/introduction-to-database-systems/section/02867b69-28cf-4f0b-8a4d-e255615065fa",
+    "topics": ["client - server architecture", "two tier", "three tier", "oracle net services", "listener", "network database"],
+    "my_note": "Explains client requests, database server listeners, TNS names configuration, and 2-tier vs 3-tier database application models."
+  },
+  {
+    "title": "Backup Types & Recovery Models in SQL/Oracle",
+    "url": "https://youtu.be/BmNklwswRsg?si=iovTKc1HFXXqdE_1",
+    "resource_url":"https://docs.oracle.com/en/database/oracle/oracle-database/19/bradv/introduction-backup-recovery.html#GUID-A0D892CD-1EC2-4932-882B-7A46BC87F353",
+    "topics": ["backup types and recovery model in sql", "full backup", "differential backup", "transaction log backup", "disaster recovery", "rman"],
+    "my_note": "Critical exam topic comparing physical vs logical backups, cold vs hot backups, and transaction log recovery strategies."
+  },
+  {
+    "title": "Data Export & Import Utilities (EXP/IMP & Data Pump)",
+    "url": "https://youtu.be/BwVomXnypLY?si=NbOlY3BQHYkyZ_el",
+    "resource_url":"NULL",
+    "topics": ["export and import", "expdp", "impdp", "data pump", "dumpfiles", "database migration"],
+    "my_note": "Walks through logical backup techniques for moving schemas, tables, and full database instances using Data Pump utilities."
+  },
+  {
+    "title": "Introduction to PL/SQL Block Structure & Control Statements",
+    "url": "https://youtu.be/iyJxCc9XRxU?si=Adf9gvGnn54IvBqw",
+    "resource_url":"https://www.lkouniv.ac.in/site/writereaddata/siteContent/202003291621085101sanjeev_rdbms_unit-III_pl-sql_bba_ms_4_sem.pdf",
+    "topics": ["introduction to pl/sql", "pl sql basics", "declare begin end", "anonymous block", "procedural sql"],
+    "my_note": "Foundation of Oracle procedural language: anonymous block structure (DECLARE, BEGIN, EXCEPTION, END) and conditional logic."
+  },
+  {
+    "title": "Implicit & Explicit Cursors in PL/SQL",
+    "url": "https://youtu.be/2ege5FiH6Go?si=i92Qm8FbJf2kpfxw",
+    "resource_url":"https://www.lkouniv.ac.in/site/writereaddata/siteContent/202003291621085101sanjeev_rdbms_unit-III_pl-sql_bba_ms_4_sem.pdf",
+    "topics": ["cursor in pl/sql", "implicit cursor", "explicit cursor", "open fetch close", "cursor attributes", "sql%found"],
+    "my_note": "Must-know concept for row-by-row query processing: cursor lifecycle (DECLARE, OPEN, FETCH, CLOSE) and attributes (%FOUND, %NOTFOUND, %ROWCOUNT)."
+  },
+  {
+    "title": "Introduction to Database Triggers in Oracle PL/SQL",
+    "url": "https://youtu.be/qr8QIZRHDaY?si=4sa7bLAk9uXESFZw",
+    "resource_url":"https://www.lkouniv.ac.in/site/writereaddata/siteContent/202003291621085101sanjeev_rdbms_unit-III_pl-sql_bba_ms_4_sem.pdf",
+    "topics": ["introduction to triggers", "database triggers", "before trigger", "after trigger", "row level trigger", "statement level trigger"],
+    "my_note": "Explains event-driven execution (BEFORE/AFTER INSERT/UPDATE/DELETE), row-level (:OLD, :NEW) vs statement-level triggers."
+  },
+  {
+    "title": "ACID Properties in Database Transactions",
+    "url": "https://youtu.be/-GS0OxFJsYQ?si=qyVutGJnOF6z595V",
+    "resource_url":"https://medium.com/@pranavsb699/transaction-management-concurrency-control-in-oracle-pl-sql-best-of-mrcaption49-708-4c03c8b71f09",
+    "topics": ["ACID properties", "atomicity", "consistency", "isolation", "durability", "transaction management"],
+    "my_note": "High-priority theory topic: breaks down Atomicity (all or nothing), Consistency, Isolation levels, and Durability."
+  },
+  {
+    "title": "Transaction Concurrency & Locking Mechanisms",
+    "url": "https://youtu.be/t5hsV9lC1rU?si=qhsGXNT05iLQp2_f",
+    "resource_url":"https://medium.com/@pranavsb699/transaction-management-concurrency-control-in-oracle-pl-sql-best-of-mrcaption49-708-4c03c8b71f09",
+    "topics": ["transaction concurrency", "concurrency control", "serializability", "deadlock", "2pl", "locking mechanisms"],
+    "my_note": "Covers race conditions, lost updates, dirty reads, optimistic/pessimistic locking, and Two-Phase Locking (2PL) protocols."
+  },
+  {
+    "title": "Exception Handling in PL/SQL (Predefined & User-Defined)",
+    "url": "https://youtu.be/jBzhLOCBuuA?si=YMnq0fhHvTJNOk-2",
+    "resource_url":"https://www.lkouniv.ac.in/site/writereaddata/siteContent/202003291621085101sanjeev_rdbms_unit-III_pl-sql_bba_ms_4_sem.pdf",
+    "topics": ["exception handling", "pl sql exception", "no_data_found", "too_many_rows", "raise_application_error", "user defined exception"],
+    "my_note": "Details trapping runtime errors: system exceptions (NO_DATA_FOUND, TOO_MANY_ROWS) and declaring custom exceptions with RAISE."
+  },
+  {
+    "title": "Installation & Configuration of Oracle Database Package",
+    "url": "https://youtu.be/zUkKSOyGHQU?si=VW_acrapPc4YcQ5V",
+    "resource_url":"https://docs.oracle.com/en/database/oracle/property-graph/23.1/spgdg/installing-pl-sql-packages-oracle-database.html",
+    "topics": ["installation of oracle package", "oracle installation", "oracle xe", "database configuration assistant", "dbca", "environment variables"],
+    "my_note": "Step-by-step setup guide for configuring Oracle DB, setting ORACLE_SID/ORACLE_HOME environment variables, and establishing initial admin connections."
+  },
+  {
+    "title": "Stored Procedures in PL/SQL with IN/OUT Parameters",
+    "url": "https://youtu.be/v-XBdh7Xupc?si=fCV4n01I4G5dDjmp",
+    "resource_url":"https://www.lkouniv.ac.in/site/writereaddata/siteContent/202003291621085101sanjeev_rdbms_unit-III_pl-sql_bba_ms_4_sem.pdf",
+    "topics": ["procedure in pl/sql", "stored procedure", "in parameter", "out parameter", "in out parameter", "reusable code"],
+    "my_note": "Teaches creating modular database procedures, passing data using IN, OUT, and IN OUT parameter modes, and executing procedures."
+  },
+  {
+    "title": "PL/SQL Functions & Return Types",
+    "url": "https://youtu.be/6OJIrPx61mU?si=HV9_ItLv7t3bfsA6",
+    "resource_url":"https://www.lkouniv.ac.in/site/writereaddata/siteContent/202003291621085101sanjeev_rdbms_unit-III_pl-sql_bba_ms_4_sem.pdf",
+    "topics": ["functions in pl/sql", "pl sql function", "return statement", "stored functions", "sql integration"],
+    "my_note": "Highlights key differences between procedures and functions (functions must return a value) and invoking functions inside SQL queries."
+  }
+]
