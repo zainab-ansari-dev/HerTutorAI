@@ -8,10 +8,7 @@ HerTutorAI is an offline-capable, multimodal academic study assistant created fo
 
 ## 📽️ Demo
 
-![LockIn AI Demo](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/assets/demo.gif)
-
-> *Tip: Replace the link above with a GIF or embed a YouTube link to your demo video here!*  
-> **[Watch Full Video Demo on YouTube](https://youtube.com/your-demo-link)**
+![HerTutorAI Demo](https://raw.githubusercontent.com/zainab-ansari-dev/HerTutorAI/main/demo.gif)
 
 ---
 
