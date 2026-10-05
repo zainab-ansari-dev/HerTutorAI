@@ -46,21 +46,22 @@ LockIn-AI/
 Before running HerTutorAI, ensure you have the required software installed on your machine.
 
 ### Install Ollama & Local AI models 
-* **Download and install Ollama from [ollama.com](https://ollama.com/download).**
-* **Open your terminal and pull the required open-source AI models:**
+Download and install Ollama from [ollama.com](https://ollama.com/download).
+Open your terminal and pull the required open-source AI models:
   ```bash
   ollama pull llama3.2:1b
   ollama pull llava
+```
 
 ## Installation
 **1. Clone the Repository** 
   ```bash
   git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
   cd HerTutorAI
-
+```
 **2. Set Up & Start Back-End (FastAPI)**
-* Navigate to the backend directory
-  ```bash
+Navigate to the backend directory
+```bash
   cd back-end
 ```
 Create and activate a Python virtual environment:
