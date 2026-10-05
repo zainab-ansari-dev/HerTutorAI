@@ -4,7 +4,16 @@
 
 HerTutorAI is an offline-capable, multimodal academic study assistant created for **Hacktoberfest DEV Challenge 'Build for a Friend'**. It combines local LLM inference, pre-computed UI card rendering, and automated YouTube video curation into a fast, privacy-first learning hub.
 
----
+## Why I built this
+I built this for my friend who keeps asking me for youtube video recommendations and notes or references for our semester examinations topics. now she can just enter the topic (from our 5th semester syllabus) and get explanation and recommended video on that topic, it also provides references , from where to study the topic.
+
+## Problem it solved:
+**1. Eliminates "Search Fatigue":** Instead of searching YouTube blindly,my friend enters a syllabus prompt or uploads a lecture diagram. HerTutorAI parses the core concept and automatically matches it with curated, relevant educational video resources.
+
+**2. Multimodal Diagram Analysis:** If a lecture slide or textbook diagram is confusing, they can drop the image directly into the chatbot to get a step-by-step breakdown alongside matching lecture video recommendations.
+
+**3. 100% Offline & Fast:** Built with local LLMs (Ollama) and local compiled Tailwind CSS, it operates completely privately without subscription paywalls, API costs, or bandwidth throttling.
+
 
 ## 📽️ Demo
 
@@ -57,7 +66,7 @@ Open your terminal and pull the required open-source AI models:
 ## Installation
 **1. Clone the Repository** 
   ```bash
-  git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
+  git clone (https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
   cd HerTutorAI
 ```
 **2. Set Up & Start Back-End (FastAPI)**
