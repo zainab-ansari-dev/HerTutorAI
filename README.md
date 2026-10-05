@@ -72,21 +72,21 @@ Open your terminal and pull the required open-source AI models:
 **2. Set Up & Start Back-End (FastAPI)**
 Navigate to the backend directory
 ```bash
-  cd back-end
+cd back-end
 ```
 Create and activate a Python virtual environment:
 ```bash
-  python -m venv venv
+python -m venv venv
 
-  # On Windows (PowerShell):
-  .\venv\Scripts\Activate
+# On Windows (PowerShell):
+.\venv\Scripts\Activate
 
-  # On Mac/Linux:
-  source venv/bin/activate
+# On Mac/Linux:
+source venv/bin/activate
 ```
 Install Python dependencies
 ```bash
-  pip install fastapi openai
+pip install fastapi openai
 ```
 start the FastAPI Backend server
 ```bash
@@ -95,6 +95,6 @@ uvicorn app:app --reload
 **3. Set Up & Build Front-End (Tailwind CLI)**
 Open a second terminal window and navigate to front-end/
   ```bash
-  cd front-end
+cd front-end
 ```
 Open index.html in your browser (or use VS Code's Live Server extension)
