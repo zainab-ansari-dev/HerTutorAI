@@ -38,7 +38,7 @@ I built this for my friend who keeps asking me for youtube video recommendations
 ## 📁 Project Structure
 
 ```text
-LockIn-AI/
+HerTutorAI/
 ├── back-end/             # FastAPI server, local LLM prompts, & video search route
 │   ├── app.py
 │   └── videos.json
