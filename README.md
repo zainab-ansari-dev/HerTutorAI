@@ -8,7 +8,7 @@ HerTutorAI is an offline-capable, multimodal academic study assistant created fo
 
 ## 📽️ Demo
 
-![HerTutorAI Demo](./demo.gif)
+![HerTutorAI Demo](./asset/demo.gif)
 
 ---
 
