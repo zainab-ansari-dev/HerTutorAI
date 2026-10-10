@@ -14,8 +14,8 @@ I built this for my friend who keeps asking me for youtube video recommendations
 
 **3. 100% Offline & Fast:** Built with local LLMs (Ollama) and local compiled Tailwind CSS, it operates completely privately without subscription paywalls, API costs, or bandwidth throttling.
 
-
-## 📽️ Demo
+(wait for demo video to load)
+## 📽️ Demo 
 
 <img width="1364" height="632" alt="HerTutorAI-ezgif com-optimize (1)" src="https://github.com/user-attachments/assets/d7b74906-d128-4a73-b214-936858f48e40" />
 
